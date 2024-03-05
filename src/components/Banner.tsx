@@ -1,4 +1,4 @@
-export default function Carousel() {
+export default function Banner() {
   return (
     <section className="bg-center rounded-3xl bg-no-repeat bg-[url('https://flowbite.s3.amazonaws.com/docs/jumbotron/conference.jpg')] bg-gray-700 bg-blend-multiply">
       <div className="px-4 mx-auto max-w-screen-xl text-center py-24 lg:py-56">
